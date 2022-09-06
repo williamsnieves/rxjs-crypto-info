@@ -1,0 +1,19 @@
+{
+  "name": "rxjs-crypto-info",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^7.5.6"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}

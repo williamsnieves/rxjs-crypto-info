@@ -1,0 +1,26 @@
+.container {
+  max-width: 1200px;
+  flex-direction: column;
+  margin: 0 auto;
+  display: flex;
+}
+.item {
+  background: #fdcb6e;
+  margin-bottom: 0.6rem;
+  border-radius: 12px;
+  border: 3px solid #ffeaa7;
+  color: #636e72;
+  padding: 15px;
+  line-height: 20px;
+  font-size: 20px;
+}
+
+.crypto-button {
+  margin-bottom: 20px;
+  border: 0;
+  padding: 18px;
+  background: #74b9ff;
+  color: #2d3436;
+  cursor: pointer;
+  font-size: 20px;
+}
